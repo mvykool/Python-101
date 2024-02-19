@@ -5,3 +5,8 @@ print(-2)
 print(2.2)
 
 # comment
+
+# variables
+test_value = 10
+test_value += 50
+print(test_value)
