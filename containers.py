@@ -1,3 +1,3 @@
-tuple = ('bob', 123, 'lisa', ('another list'))
+tuple = ('bob', 123, 'lisa', ('another list')) # inmutable
 
-list = ['bob', 123, 'lisa', ('another list')]
+list = ['bob', 123, 'lisa', ('another list')] # mutable
