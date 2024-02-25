@@ -6,3 +6,4 @@
 # methods
 
 print('value'.upper())
+print('value'.replace('l', 'r'))
