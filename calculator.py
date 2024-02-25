@@ -1,13 +1,7 @@
-import math
+height = int(input('add height'))
+width = int(input('add width'))
 
-
-height = input('add height')
-width = input('add width')
-
-height = int(height)
-width = int(width)
-
-hypotenuse = math.sqrt(height ** 2 + width ** 2)
+hypotenuse = (height ** 2 + width ** 2) ** (1/2)
 
 print(hypotenuse)
 
