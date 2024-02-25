@@ -15,4 +15,4 @@
 
 user_name = input('whats your name? ')
 
-print(user_name)
+print('hello', user_name, 'have a nice day')
