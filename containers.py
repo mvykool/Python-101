@@ -11,3 +11,8 @@ dictionary = {
     123: 'test',
     'lisa': (1,2,3)
 }
+
+# how to get values from a container
+
+user_list = ['lisa', 'bob', 'joe', 'harry' ]
+print(user_list[0:3])
